@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2008
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MoneyManager.Wallet", "MoneyManager.Wallet\MoneyManager.Wallet.csproj", "{A018DDEE-E3D5-41AE-BE28-EA911DF10609}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MoneyManager.WalletTests", "MoneyManager.WalletTests\MoneyManager.WalletTests.csproj", "{724EB190-B29D-4694-9D52-1098C6145235}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A018DDEE-E3D5-41AE-BE28-EA911DF10609}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A018DDEE-E3D5-41AE-BE28-EA911DF10609}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A018DDEE-E3D5-41AE-BE28-EA911DF10609}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A018DDEE-E3D5-41AE-BE28-EA911DF10609}.Release|Any CPU.Build.0 = Release|Any CPU
+		{724EB190-B29D-4694-9D52-1098C6145235}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{724EB190-B29D-4694-9D52-1098C6145235}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{724EB190-B29D-4694-9D52-1098C6145235}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{724EB190-B29D-4694-9D52-1098C6145235}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F7AF568D-AB55-4A4F-A4E3-D8DB2E4B4EF5}
+	EndGlobalSection
+EndGlobal
